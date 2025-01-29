@@ -35,7 +35,7 @@ A **Tribute Page** created as a tribute to a person or topic. It uses **HTML** a
 To view any of these projects locally, follow these steps:
 
 1. Clone the repository:
-   git clone https://github.com/your-username/portfolio-projects.git
+   git clone https://github.com/jayalakshmi-sakthi/portfolio-projects.git
    
 Navigate to the project folder and open the index.html file in your web browser:
 cd portfolio-projects
